@@ -13,6 +13,7 @@ We can see here the image size is around 871MB
 
 Building a Docker image using Multistage build.
 From the below image it is clear that we could see the same image which we have build above here, it reduced to 1.83MB which nearly reduced around 800%.
+![image](https://github.com/rohith200/Docker/assets/42884535/aecc1b2b-3fe0-49a8-9bfe-c875c6ed5e3c)
 
 
 
